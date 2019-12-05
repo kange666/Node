@@ -1,0 +1,7 @@
+npm init -y
+npm i -S express
+
+npm install --save art-template
+npm install --save express-art-template
+
+npm install --save body-parser
